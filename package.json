@@ -1,0 +1,15 @@
+{
+  "name": "redis_example",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Nutan Panta",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "redis": "^4.1.0"
+  }
+}
